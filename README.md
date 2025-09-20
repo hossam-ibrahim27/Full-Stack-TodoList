@@ -69,5 +69,8 @@ This project demonstrates a **scalable and maintainable full-stack application**
 - Optimized API handling with **React Query**.  
 - Professional UI built with **TailwindCSS**.
 
-
 ---
+## 🎯 Demo
+
+- View In Varcel: https://front-full-stack-todo.vercel.app/
+- View In Netlify : https://full-stack-zonetodo.netlify.app/
