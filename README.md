@@ -67,6 +67,7 @@ This project demonstrates a **scalable and maintainable full-stack application**
 - **Pagination** for efficient task management.  
 - Mock todos generated during development with **Faker.js**.  
 - Optimized API handling with **React Query**.  
-- Professional UI built with **TailwindCSS**.  
+- Professional UI built with **TailwindCSS**.
+
 
 ---
